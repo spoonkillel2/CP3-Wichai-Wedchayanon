@@ -1,9 +1,21 @@
-foundation_English = 69.4
-general_Business = 87.7
-introduction_Computer_System = 45.6
-computer_Programming = 46
+user_Id = "13121994"
+user_Name = "Wichai"
+user_Surname = "Wedchayanon"
 
-print("Foundation English :", foundation_English, "Point")
-print("General Business :", general_Business, "Point")
-print("Introduction to Computer System :", introduction_Computer_System, "Point")
-print("Computer_Programing :", computer_Programming, "Point")
+f = 69.4
+g = 87.7
+i = 45.6
+c = 46
+
+
+print("***Born To Dev University***")
+
+print("-----------------------")
+print("ID:", user_Id)
+print("User Name :", user_Name, user_Surname)
+print("Score :")
+print("Foundation English :", f, "Point")
+print("General Business :", g, "Point")
+print("Introduction to Computer System :", i, "Point")
+print("Computer Programing :", c, "Point")
+print("-----------------------")
